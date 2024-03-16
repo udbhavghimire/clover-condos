@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/bramp135/clovercondo.ca/
+    - /bin/cp -r * $DEPLOYPATH
+
