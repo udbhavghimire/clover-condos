@@ -126,7 +126,7 @@
                                 </p>
 
                                 <p class="mybot pb-md-0 pb-0 ">
-                                    Address:  Carrington Blvd NW, Calgary, AB
+                                    Address:  14121 Center Street N.W. – Calgary, Alberta
                                 </p>
                                 <p class="mybot pb-md-0 pb-0 ">
                                 Occupancy: Est. Q2 2024 
@@ -242,6 +242,134 @@
             </div>
         </section> -->
 
+        <div class="py-md-5 pt-5 container" id="plans">
+                        <h2 class="fw-bold fs-1 pb-3 pt-lg-0 pt-2 text-center custom-underline">
+                        Floor  <span class="brand-color"> Plans</span>
+                        </h2>
+                        <ul class="nav nav-pills  d-flex justify-content-center" id="pills-tab" role="tablist">
+                            <li class="nav-item me-2 me-md-3 my-2" role="presentation">
+                                <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-1bd" type="button" role="tab" aria-controls="pills-home" aria-selected="true">2 BEDS</button>
+                            </li>
+                            <li class="nav-item me-2 me-md-3 my-2" role="presentation">
+                                <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-1bdden" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">3 BEDS </button>
+                            </li>
+                        </ul>
+                        <div class="my-5"></div>
+                        <div class="tab-content" id="pills-tabContent">
+                            <div class="tab-pane fade show active" id="pills-1bd" role="tabpanel" aria-labelledby="pills-home-tab">
+                                <div class="row me-0 row-cols-1 row-cols-md-3 row-cols-lg-3 g-4 me-0 d-flex justify-content-center">
+                                    <div class="col floorbtns">
+                                        <div class="card border-0 shadow-lg rounded-mine">
+                                            <img loading="lazy" src="plans/2bed.png" class="card-img-top rounded-top-mine" alt="Clover 2 bed | 2 bath">
+                                            <div class="card-body">
+                                               
+                                                <h4 class="fw-bold mb-1">A</h4>
+                                             
+                                                <div class="d-flex">
+                                                    <span class="me-2">2 Bed</span>
+                                                    <p class="mb-0">2 Bath</p>
+                                                    </div>
+                                                    <p class="mb-1">
+                                                    ± 648–656 SQ.FT
+                                                    </p>    
+                                            </div>
+                                            <button class="btn btn-minee text-start">
+                                            Starting at $389,900 (incl. GST)
+                      </button>
+                                        </div>
+                                    </div>
+                                    <div class="col floorbtns">
+                                        <div class="card border-0 shadow-lg rounded-mine">
+                                            <img loading="lazy" src="plans/2bed2.png" class="card-img-top rounded-top-mine" alt="Clover 2 bed | 1 bath">
+                                            <div class="card-body">
+                                             
+                                                <h4 class="fw-bold mb-1">B</h4>
+                                                <div class="d-flex justify-content-start">
+                                                    <span class="mx-2">2 Bed</span>
+                                                    <p class="mb-0">1 Bath</p>
+                                                    </div>
+                                                    <p class="mb-1">
+                                                    ± 634–644 SQ.FT
+                                                    </p>
+                                            </div>
+                                            <button class="btn btn-minee text-start">
+                                            Starting at $369,900 (incl. GST)
+                      </button>
+                                        </div>
+                                    </div>
+                                    <div class="col floorbtns">
+                                    <div class="card border-0 shadow-lg rounded-mine">
+                                            <img loading="lazy" src="plans/2bed3.png" class="card-img-top rounded-top-mine" alt="Clover 2 bed | 2 bath">
+                                            <div class="card-body">
+                                                
+                                                <h4 class="fw-bold mb-1">D2</h4>
+                                                <div class="d-flex justify-content-start">
+                                                <span class="mx-2">2 Bed</span>
+                                                    <p class="mb-0">2 Bath</p>
+                                                </div>
+                                                    <p class="mb-1">
+                                                    ± 648–656 SQ.FT
+                                                    </p>
+                                                    
+                                               
+                                            </div>
+                                            <button class="btn btn-minee text-start">
+                                            Starting at $389,900 (incl. GST)
+                      </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="pills-1bdden" role="tabpanel" aria-labelledby="pills-profile-tab">
+                                <div class="row me-0 row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 me-0 d-flex justify-content-center">
+                                    <div class="col floorbtns">
+                                    <div class="card border-0 shadow-lg rounded-mine">
+                                            <img loading="lazy" src="plans/3bed.png" class="card-img-top rounded-top-mine" alt="Clover 3 bed | 2 bath">
+                                            <div class="card-body">
+                                                
+                                                <h4 class="fw-bold mb-1">C</h4>
+                                                <div class="d-flex justify-content-start">
+                                                <span class="mx-2">3 Bed</span>
+                                                    <p class="mb-0">2 Bath</p>
+                                                </div>
+                                                    <p class="mb-1">
+                                                    ± 900 SQ.FT
+                                                    </p>
+                                                    
+                                               
+                                            </div>
+                                            <button class="btn btn-minee text-start">
+                                            Starting at $449,000 (incl. GST)  
+                      </button>
+                                        </div>
+                                    </div>
+
+                                    <div class="col floorbtns">
+                                        <div class="card border-0 shadow-lg rounded-mine">
+                                            <img loading="lazy" src="plans/3bed2.png" class="card-img-top rounded-top-mine" alt="Clover 3 bed | 2 bath">
+                                            <div class="card-body">
+                                                
+                                                <h4 class="fw-bold mb-1">E</h4>
+                                                <div class="d-flex justify-content-start">
+                                                <span class="mx-2">3 Bed</span>
+                                                    <p class="mb-0">2 Bath</p>
+                                                </div>
+                                                    <p class="mb-1">
+                                                    ± 786-790 SQ.FT
+                                                    </p>
+                                                    
+                                               
+                                            </div>
+                                            <button class="btn btn-minee text-start">
+                                            Starting at $449,000 (incl. GST)  
+                      </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
         <section>
             <div class="container pt-md-2">
                 <div class="pt-md-5 pt-5"></div>
@@ -249,13 +377,17 @@
                     <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center brand-color">
                         <span class="mx-1">Clover Condos - Location </span>
                     </h2>
-                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">Carrington Blvd NW, Calgary, AB</span>
-                    <div>
-                        <div class="bg-white p-1   rounded-mine d-flex justify-content-center">
+                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">14121 Center Street N.W. – Calgary, Alberta</span>
+                    <div class="row row-cols-md-2 row-cols-1">
+                    <div class="bg-white p-1   rounded-mine d-flex justify-content-center col">
+                            <img src="./images/Clover - Site Map.png" class="img-fluid" alt="">
+</div>
+                        <div class="bg-white p-1   rounded-mine d-flex justify-content-center align-items-center col">
 
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2501.186859914325!2d-114.0830572!3d51.178778799999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5371671acbb11a99%3A0xf84ecf9103bfd43f!2sCarrington%20Blvd%2C%20Calgary%2C%20AB%2C%20Canada!5e0!3m2!1sen!2snp!4v1710595491641!5m2!1sen!2snp" width="90%" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2501.186859914325!2d-114.0830572!3d51.178778799999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5371671acbb11a99%3A0xf84ecf9103bfd43f!2sCarrington%20Blvd%2C%20Calgary%2C%20AB%2C%20Canada!5e0!3m2!1sen!2snp!4v1710595491641!5m2!1sen!2snp" width="90%" height="620" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
                         </div>
+                 
                     </div>
                 </div>
 
@@ -382,7 +514,7 @@ This location is in Calgary. The closest park is Panora Square.
                                     Builder : Truman Homes
                                 </p>
                                 <p class="mybot ">
-                                    Location : Carrington Blvd NW, Calgary, AB
+                                    Location : 14121 Center Street N.W. – Calgary, AB
                                 </p>
 
                                 <p class="mybot ">
