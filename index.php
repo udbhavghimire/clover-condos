@@ -243,7 +243,7 @@
         </section> -->
 
         <div class="py-md-5 pt-5 container" id="plans">
-                        <h2 class="fw-bold fs-1 py-3 pt-lg-0 pt-2 text-center custom-underline">
+                        <h2 class="fw-bold fs-1 py-3 pt-lg-0 pt-2 text-center custom-underline mt-5">
                         Floor  <span class="brand-color"> Plans</span>
                         </h2>
                         <ul class="nav nav-pills  d-flex justify-content-center" id="pills-tab" role="tablist">
