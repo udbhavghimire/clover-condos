@@ -470,7 +470,7 @@ This location is in Calgary. The closest park is Panora Square.
                                 <div class=" "><textarea name="message" id="message" placeholder="Enter your message" class="fields mess" required></textarea></div>
                             </div>
                             <div class="row ">
-                                <p class=" text-muted sm-text text-center mt-0 ">*I consent to receive future communications about Arbor West Homes. I understand I can opt out at anytime by sending an email.</p>
+                                <p class=" text-muted sm-text text-center mt-0 ">*I consent to receive future communications about Clover Condos. I understand I can opt out at anytime by sending an email.</p>
                             </div>
                             <div class="row ">
                                 <div class="col text-center ">
