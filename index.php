@@ -171,7 +171,7 @@
                             <div class="rounded-3">
                                 <div class="d-flex justify-content-between pb-3">
                                     <div
-                                        class="row me-0 row-cols-1 row-cols-sm-2 row-cols-lg-3 justify-content-center g-4 me-0">
+                                        class="row me-0 row-cols-2 row-cols-sm-2 row-cols-lg-3 justify-content-center g-md-4 g-2  me-0">
                                         <div class="col">
                                             <div class="afte">
                                                 <img loading="lazy" src="images/clover condos 1.webp"
@@ -184,7 +184,7 @@
                                                     alt="Clover Condos" class="img-fluid imghei">
                                             </div>
                                         </div>
-                                        <div class="col">
+                                        <div class="col full-width">
                                             <div href="#" class="afte">
                                                 <img loading="lazy" src="images/Clover-Condos 3 .webp"
                                                     alt="Clover Condos" class="img-fluid imghei">
@@ -273,7 +273,7 @@
         <div class="my-5"></div>
         <div class="tab-content" id="pills-tabContent">
             <div class="tab-pane fade show active" id="pills-1bd" role="tabpanel" aria-labelledby="pills-home-tab">
-                <div class="row me-0 row-cols-1 row-cols-md-3 row-cols-lg-3 g-4 me-0 d-flex justify-content-center">
+                <div class="row me-0 row-cols-2 row-cols-md-3 row-cols-lg-3 g-md-4 g-2 me-0 d-flex justify-content-center">
                     <div class="col floorbtns">
                         <div class="card border-0 shadow-lg rounded-mine">
                             <img loading="lazy" src="plans/2bed.png" class="card-img-top rounded-top-mine"
@@ -315,7 +315,7 @@
                             </button>
                         </div>
                     </div>
-                    <div class="col floorbtns">
+                    <div class="col floorbtns full-width">
                         <div class="card border-0 shadow-lg rounded-mine">
                             <img loading="lazy" src="plans/2bed3.png" class="card-img-top rounded-top-mine"
                                 alt="Clover 2 bed | 2 bath">
@@ -340,7 +340,7 @@
                 </div>
             </div>
             <div class="tab-pane fade" id="pills-1bdden" role="tabpanel" aria-labelledby="pills-profile-tab">
-                <div class="row me-0 row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 me-0 d-flex justify-content-center">
+                <div class="row me-0 row-cols-2 row-cols-md-2 row-cols-lg-3 g-md-4 g-2 me-0 d-flex justify-content-center">
                     <div class="col floorbtns">
                         <div class="card border-0 shadow-lg rounded-mine">
                             <img loading="lazy" src="plans/3bed.png" class="card-img-top rounded-top-mine"
@@ -429,7 +429,7 @@
             </h2>
 
             <span
-                class=" pt-2 small-text text-center d-flex justify-content-center align-items-center custom-underline pb-3 textt fs-4 px-2 ">
+                class=" pt-2 small-text text-center d-flex justify-content-center align-items-center custom-underline pb-3 textt fs-4 px-4 ">
                 Truman Homes is Calgary's Leading New Homes Development Company. Truman is Award-winning master builder serving
                 Calgary  area for over 35 years. For more than three and a half decades, Truman Homes has
                 established itself as a shining example of excellence and unwavering commitment within the construction

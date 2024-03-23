@@ -182,7 +182,7 @@
 }
 .card-img-top {
     position: relative;
-    height: 600px;
+    height: 450px;
 }
 .btn-minee {
     border-radius: 8px !important;
@@ -236,5 +236,12 @@
         max-width: 800px;
         margin-left: auto;
         margin-right: auto;
+    }
+    .full-width {
+        flex: 0 0 100%; /* Make the column take full width */
+    }
+    .card-img-top {
+        position: relative;
+        height: 350px;
     }
 }
