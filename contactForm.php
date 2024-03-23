@@ -12,7 +12,7 @@ require './PHPMailer/src/SMTP.php';
 $mail = new PHPMailer;
 
 $mail->isSMTP(); // Set mailer to use SMTP
-$mail->Host = 'mail.arborwesthome.ca'; // Specify main and backup SMTP servers
+$mail->Host = 'mail.clovercondo.ca'; // Specify main and backup SMTP servers
 $mail->SMTPAuth = true; // Enable SMTP authentication
 $mail->Username = 'info@clovercondo.ca'; // SMTP username
 $mail->Password = 'mail@clovercondo'; // SMTP password
@@ -20,8 +20,10 @@ $mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587; // TCP port to connect to
 
 $mail->setFrom('info@clovercondo.ca', $_POST['name']);
+$mail->addAddress('hello@dolphy.ca');
 $mail->addAddress('milan@homebaba.ca');
 
+ 
 
 $mail->addReplyTo($_POST['email']);
 $mail->isHTML(true);
