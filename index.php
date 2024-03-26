@@ -76,9 +76,9 @@
                             <li class="nav-item px-md-2">
                                 <a class="nav-link scrollto" href="#gallery">Renderings</a>
                             </li>
-                            <!-- <li class="nav-item px-md-2">
-                                <a class="nav-link scrollto" href="#features">Amenities</a>
-                            </li> -->
+                            <li class="nav-item px-md-2">
+                                <a class="nav-link scrollto" href="#plans">Floor Plans</a>
+                            </li>
                             <!-- <li class="nav-item px-md-2">
                                 <a class="nav-link scrollto" href="#plans">Plans & Pricing</a>
                             </li> -->
@@ -174,7 +174,7 @@
                                         class="row me-0 row-cols-2 row-cols-sm-2 row-cols-lg-3 justify-content-center g-md-4 g-2  me-0">
                                         <div class="col">
                                             <div class="afte">
-                                                <img loading="lazy" src="images/clover condos 1.webp"
+                                                <img loading="lazy" src="images/clover condos 1.jpeg"
                                                     alt="Clover Condos" class="img-fluid imghei">
                                             </div>
                                         </div>
@@ -184,9 +184,27 @@
                                                     alt="Clover Condos" class="img-fluid imghei">
                                             </div>
                                         </div>
-                                        <div class="col full-width">
+                                        <div class="col">
                                             <div href="#" class="afte">
-                                                <img loading="lazy" src="images/Clover-Condos 3 .webp"
+                                                <img loading="lazy" src="images/Clover-Condos 3 .jpeg"
+                                                    alt="Clover Condos" class="img-fluid imghei">
+                                            </div>
+                                        </div>
+                                        <div class="col">
+                                            <div href="#" class="afte">
+                                                <img loading="lazy" src="images/Clover_Carrington_4.jpeg"
+                                                    alt="Clover Condos" class="img-fluid imghei">
+                                            </div>
+                                        </div>
+                                        <div class="col">
+                                            <div href="#" class="afte">
+                                                <img loading="lazy" src="images/Clover_Carrington_5.jpeg"
+                                                    alt="Clover Condos" class="img-fluid imghei">
+                                            </div>
+                                        </div>
+                                        <div class="col">
+                                            <div href="#" class="afte">
+                                                <img loading="lazy" src="images/Clover_Carrington_6.jpeg"
                                                     alt="Clover Condos" class="img-fluid imghei">
                                             </div>
                                         </div>
