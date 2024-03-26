@@ -461,7 +461,7 @@
         </div>
     </section>
 
-    <div class="floating fixcontact"><a href="#Contact" class="btn bgggggggg br-m text-dark w-100 py-2 shadow-lg">Register Now
+    <div class="floating fixcontact"><a href="#Contact" class="btn bgggggggg br-m text-dark w-100 py-2 shadow-lg d-md-none d-block">Register Now
              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                 class="bi bi-chat-left-dots" viewBox="0 0 16 16">
                 <path
@@ -626,17 +626,10 @@
         isset ($_SESSION['success'])
     ) {
         ?>
-        <script type="text/javascript" async>
-            silverBox({
-                title: {
-                    text: "Success",
-                    alertIcon: "success",
-                },
-                text: "Your Message has been received.\n We'll get back to you soon.",
-            });
-        </script>
+       
         <?php
         unset($_SESSION['success']);
+       
     }
 
     if (

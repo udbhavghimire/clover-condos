@@ -79,7 +79,7 @@
 .nav-link:hover,
 .nav-link-active {
     color: #001F2C !important;
-    text-decoration: underline #001F2C!important;
+    text-decoration: underline #001F2C !important;
     text-underline-offset: 5px;
     text-decoration-thickness: 2px;
 }
@@ -129,6 +129,7 @@
 .afte:hover {
     transform: scale(1.04);
 }
+
 .textt {
     font-size: 26px;
     max-width: 800px;
@@ -155,7 +156,7 @@
 
 .regoimg {
     height: 50px;
-    
+
 }
 
 .nav-pills .nav-item .nav-link {
@@ -180,10 +181,12 @@
     background-color: #000000;
     color: #ffffff !important;
 }
+
 .card-img-top {
     position: relative;
     height: 450px;
 }
+
 .btn-minee {
     border-radius: 8px !important;
     border-top-left-radius: 0px !important;
@@ -223,10 +226,20 @@
     margin-bottom: 3px !important;
 }
 
+.thankyou {
+    font-size: 10rem;
+    font-weight: 700;
+}
+.thankyou-container{
+    margin-top: -5rem;
+}
+
+
 @media (max-width: 768px) {
-    .center-sm{
+    .center-sm {
         text-align: center;
     }
+
     .navbar-brand {
         color: rgb(255, 255, 255) !important;
         font-weight: 900 !important;
@@ -240,13 +253,17 @@
         margin-left: auto;
         margin-right: auto;
     }
+
     .full-width {
-        flex: 0 0 100%; /* Make the column take full width */
+        flex: 0 0 100%;
+        /* Make the column take full width */
     }
+
     .card-img-top {
         position: relative;
         height: 350px;
     }
+
     .fixcontact {
         bottom: 12px;
         width: 50%;
@@ -259,14 +276,21 @@
         background-color: #daeff4 !important;
         border-color: #5bdbff1f !important;
     }
+
     .bgggggggg {
         background-color: #D1897F !important;
         color: #fff !important;
     }
+
     .br-m {
         border-radius: 9px !important;
         padding-top: .65rem !important;
         padding-bottom: .65rem !important;
     }
-   
+
+    .thankyou {
+        font-size: 5rem;
+        font-weight: 700;
+    }
+
 }

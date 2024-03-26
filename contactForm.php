@@ -23,6 +23,7 @@ $mail->setFrom('info@clovercondo.ca', $_POST['name']);
 $mail->addAddress('hello@dolphy.ca');
 $mail->addAddress('milan@homebaba.ca');
 
+
  
 
 $mail->addReplyTo($_POST['email']);
@@ -68,13 +69,13 @@ $mail->AltBody = $_POST['message'].$_POST['email'].$_POST['name'].$_POST['phone'
 if(!$mail->send()) {
     $_SESSION["error"] = "Application not submitted!";
     
-        header('Location: index.php');
+        header("Location: index.php");
         exit();   
     
 } else {
     $_SESSION["success"] = "Application submitted.";
-        header('Location: ./');
-        exit();   
+    header("Location: ./thankyou/"); 
+    exit(); 
     
 }
 
