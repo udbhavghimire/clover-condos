@@ -224,6 +224,9 @@
 }
 
 @media (max-width: 768px) {
+    .center-sm{
+        text-align: center;
+    }
     .navbar-brand {
         color: rgb(255, 255, 255) !important;
         font-weight: 900 !important;
@@ -243,6 +246,27 @@
     .card-img-top {
         position: relative;
         height: 350px;
+    }
+    .fixcontact {
+        bottom: 12px;
+        width: 50%;
+        left: 50%;
+        transform: translateX(-50%);
+        border-radius: 9px;
+        position: fixed !important;
+        z-index: 9999;
+        display: block !important;
+        background-color: #daeff4 !important;
+        border-color: #5bdbff1f !important;
+    }
+    .bgggggggg {
+        background-color: #D1897F !important;
+        color: #fff !important;
+    }
+    .br-m {
+        border-radius: 9px !important;
+        padding-top: .65rem !important;
+        padding-bottom: .65rem !important;
     }
    
 }

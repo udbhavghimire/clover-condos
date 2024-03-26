@@ -109,7 +109,7 @@
                         <div class="">
                             <div>
                                 <div>
-                                    <h1 class="main-titlee mb-0  mt-0 mb-0 pb-0">
+                                    <h1 class="main-titlee mb-0  mt-0 mb-0 pb-0 center-sm">
                                         Clover Condos Calagry
                                         <!-- <span class="aff">
                       Condos
@@ -291,7 +291,8 @@
         <div class="my-5"></div>
         <div class="tab-content" id="pills-tabContent">
             <div class="tab-pane fade show active" id="pills-1bd" role="tabpanel" aria-labelledby="pills-home-tab">
-                <div class="row me-0 row-cols-2 row-cols-md-3 row-cols-lg-3 g-md-4 g-2 me-0 d-flex justify-content-center">
+                <div
+                    class="row me-0 row-cols-2 row-cols-md-3 row-cols-lg-3 g-md-4 g-2 me-0 d-flex justify-content-center">
                     <div class="col floorbtns">
                         <div class="card border-0 shadow-lg rounded-mine">
                             <img loading="lazy" src="plans/2bed.png" class="card-img-top rounded-top-mine"
@@ -358,7 +359,8 @@
                 </div>
             </div>
             <div class="tab-pane fade" id="pills-1bdden" role="tabpanel" aria-labelledby="pills-profile-tab">
-                <div class="row me-0 row-cols-2 row-cols-md-2 row-cols-lg-3 g-md-4 g-2 me-0 d-flex justify-content-center">
+                <div
+                    class="row me-0 row-cols-2 row-cols-md-2 row-cols-lg-3 g-md-4 g-2 me-0 d-flex justify-content-center">
                     <div class="col floorbtns">
                         <div class="card border-0 shadow-lg rounded-mine">
                             <img loading="lazy" src="plans/3bed.png" class="card-img-top rounded-top-mine"
@@ -448,8 +450,9 @@
 
             <span
                 class=" pt-2 small-text text-center d-flex justify-content-center align-items-center custom-underline pb-3 textt fs-4 px-4 ">
-                Truman Homes is Calgary's Leading New Homes Development Company. Truman is Award-winning master builder serving
-                Calgary  area for over 35 years. For more than three and a half decades, Truman Homes has
+                Truman Homes is Calgary's Leading New Homes Development Company. Truman is Award-winning master builder
+                serving
+                Calgary area for over 35 years. For more than three and a half decades, Truman Homes has
                 established itself as a shining example of excellence and unwavering commitment within the construction
                 industry. Their reputation isn't limited to mere words; it's substantiated by numerous accomplishments
                 that underscore their steadfast dedication to their craft and their customers. Truman Homes' Commitment
@@ -457,6 +460,17 @@
                 escaped recognition.</span>
         </div>
     </section>
+
+    <div class="floating fixcontact"><a href="#Contact" class="btn bgggggggg br-m text-dark w-100 py-2 shadow-lg">Register Now
+             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                class="bi bi-chat-left-dots" viewBox="0 0 16 16">
+                <path
+                    d="M14 1a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H4.414A2 2 0 0 0 3 11.586l-2 2V2a1 1 0 0 1 1-1h12zM2 0a2 2 0 0 0-2 2v12.793a.5.5 0 0 0 .854.353l2.853-2.853A1 1 0 0 1 4.414 12H14a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2z">
+                </path>
+                <path
+                    d="M5 6a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0z">
+                </path>
+            </svg></a></div>
 
     <section>
         <div class="pt-5 " id="Contact">
@@ -573,9 +587,9 @@
                 </div>
 
                 <div class="col-md-3 mt-md-5 pt-md-5 mt-sm-0 pt-4 center-sm d-flex  justify-content-center d-flex">
-                  
-                <img src="images/truman_logo.png" class="img-fluid regoimg " alt="Truman Homes-logo"> 
-                 <img src="images/dolphin-realty.png" class="img-fluid regoimg mx-3" alt="Truman Homes-logo">
+
+                    <img src="images/truman_logo.png" class="img-fluid regoimg " alt="Truman Homes-logo">
+                    <img src="images/dolphin-realty.png" class="img-fluid regoimg mx-3" alt="Truman Homes-logo">
 
                 </div>
             </div>
