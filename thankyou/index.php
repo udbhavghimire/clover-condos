@@ -2,6 +2,14 @@
 <html lang="en">
 
 <head>
+    <!-- Event snippet for Clover landing page conversion page -->
+<script>
+  gtag('event', 'conversion', {
+      'send_to': 'AW-16465866560/t82XCPWe9aAZEMDexKs9',
+      'value': 1.0,
+      'currency': 'CAD'
+  });
+</script>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
