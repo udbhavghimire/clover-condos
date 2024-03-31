@@ -23,9 +23,6 @@ $mail->setFrom('info@clovercondo.ca', $_POST['name']);
 $mail->addAddress('hello@dolphy.ca');
 $mail->addAddress('milan@homebaba.ca');
 
-
- 
-
 $mail->addReplyTo($_POST['email']);
 $mail->isHTML(true);
 
@@ -33,32 +30,32 @@ $mail->Subject = "Clover Condo - Landing Page Inquiry";
 $message = '<html>
 
 <body>';
-    $message .= '<table rules="all" style="border:none;" cellpadding="3">';
-        $message .= "<tr>
-            <td><strong>Name:</strong> </td>
-            <td>" . strip_tags($_POST['name']) . "</td>
-        </tr>";
-        $message .= "<tr>
-            <td><strong>Phone:</strong> </td>
-            <td>" . strip_tags($_POST['phone']) . "</td>
-        </tr>";
-        $message .= "<tr>
-            <td><strong>Email:</strong> </td>
-            <td>" . strip_tags($_POST['email']) . "</td>
-        </tr>";
-        $message .= "<tr>
-        <td><strong>Realtor or working with one?:</strong> </td>
-        <td>" . strip_tags($_POST['realtor']) . "</td>
-    </tr>";
-        $message .= "<tr>
-            <td><strong>Message : </strong> </td>
-            <td>" . strip_tags($_POST['message']) . "</td>
-        </tr>";
-        $message .= "<tr>
-            <td><strong>Source : </strong> </td>
-            <td>clovercondo.ca</td>
-        </tr>";
-        $message .= "</table>";
+    $message .= '';
+        $message .= "
+            Name:
+            " . strip_tags($_POST['name']) . "
+        <br/>";
+        $message .= "
+            Phone:
+            " . strip_tags($_POST['phone']) . "
+       <br/> ";
+        $message .= "
+            Email:
+            " . strip_tags($_POST['email']) . "
+       <br/> ";
+        $message .= "
+        Realtor or working with one?:
+        " . strip_tags($_POST['realtor']) . "
+    <br/>";
+        $message .= "
+            Message : 
+            " . strip_tags($_POST['message']) . "
+       <br/> ";
+        $message .= "
+            Source : 
+            clovercondo.ca
+        ";
+        $message .= "";
     $message .= "</body>
 
 </html>";

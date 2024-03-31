@@ -24,7 +24,7 @@
 
 <body class="bg-light">
 
-    <section id="thankyou" c>
+    <section id="thankyou">
         <div class="text-center pt-lg-2 pt-0">
             <img src="../images/clover-condos-logo.png" class="img-fluid pt-5" alt="">
             <div class="  text-center">

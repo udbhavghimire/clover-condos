@@ -532,7 +532,7 @@
                             </div>
                             <div class="row ">
                                 <div class=" "><textarea name="message" id="message" placeholder="Enter your message"
-                                        class="fields mess" required></textarea></div>
+                                        class="fields mess"></textarea></div>
                             </div>
                             <div class="row ">
                                 <p class=" text-muted sm-text text-center mt-0 ">*I consent to receive future
