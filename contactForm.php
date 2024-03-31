@@ -23,13 +23,14 @@ $mail->setFrom('info@clovercondo.ca', $_POST['name']);
 $mail->addAddress('hello@dolphy.ca');
 $mail->addAddress('milan@homebaba.ca');
 
+
 $mail->addReplyTo($_POST['email']);
 $mail->isHTML(true);
 
 $mail->Subject = "Clover Condo - Landing Page Inquiry";
-$message = '<html>
+$message = '
 
-<body>';
+';
     $message .= '';
         $message .= "
             Name:
@@ -56,9 +57,9 @@ $message = '<html>
             clovercondo.ca
         ";
         $message .= "";
-    $message .= "</body>
+    $message .= "
 
-</html>";
+";
 
 $mail->Body = $message;
 $mail->AltBody = $_POST['message'].$_POST['email'].$_POST['name'].$_POST['phone'];
