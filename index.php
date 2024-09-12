@@ -55,6 +55,18 @@
             "url": "https://clovercondo.ca/"
         }
     </script>
+    <!-- begin Widget Tracker Code -->
+    <script>
+        (function (w, i, d, g, e, t) {
+            w["WidgetTrackerObject"] = g; (w[g] = w[g] || function () { (w[g].q = w[g].q || []).push(arguments); }), (w[g].ds = 1 * new Date()); (e = "script"),
+                (t = d.createElement(e)), (e = d.getElementsByTagName(e)[0]); t.async = 1; t.src = i;
+            e.parentNode.insertBefore(t, e);
+        })
+            (window, "https://widgetbe.com/agent", document, "widgetTracker");
+        window.widgetTracker("create", "WT-KPVDOHAU");
+        window.widgetTracker("send", "pageview");
+    </script>
+    <!-- end Widget Tracker Code -->
 </head>
 
 <body>
@@ -120,9 +132,6 @@
                                 <div>
                                     <h1 class="main-titlee mb-0  mt-0 mb-0 pb-0 center-sm">
                                         Clover Condos Calagry
-                                        <!-- <span class="aff">
-                      Condos
-                    </span> -->
                                     </h1>
 
                                 </div>
